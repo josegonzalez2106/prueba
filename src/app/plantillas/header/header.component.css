@@ -1,0 +1,8 @@
+header {
+    position: fixed;
+    height: 70px;
+    bottom: 0;
+    width: 70%;
+    background-color: black;
+    color:white;
+}
